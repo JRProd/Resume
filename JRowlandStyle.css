@@ -1,0 +1,159 @@
+.container {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  max-width: 650px;
+  margin-left: 25px;
+  margin-right:25px;
+  margin-top: 10px;
+}
+
+#NameBar>* {
+  margin: 0px 7px;
+}
+
+#NameBar>p {
+  position: absolute;
+  right: -5px;
+  top: 15px;
+  padding-right: 10px;
+  font-size: 20px;
+}
+
+#OverviewContainer {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  max-width: 650px;
+  margin-left: 25px;
+  margin-right:25px;
+  margin-top: 10px;
+}
+
+#OverviewInfo>p {
+  width: 67%;
+  margin: 25px 10px 10px 0px;
+  padding: 10px;
+  border-style: double;
+  border-width: medium;
+  border-radius: 5px;
+  border-color: #81BEF7AA;
+}
+
+#OverviewInfo>img {
+  position: relative;
+  right: 15px;
+  height: 20%;
+  width: 19%;
+  margin: 10px;
+}
+
+#AchievementContainer {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  max-width: 650px;
+  margin-left: 25px;
+  margin-right:25px;
+  margin-top: 10px;
+}
+
+#Links {
+  padding-right: 59px;
+}
+
+.bar {
+  overflow: auto;
+}
+
+.bar>* {
+  margin: 0px 10px;
+}
+
+.company-info {
+  margin-bottom: 10px;
+}
+
+.company-title {
+  width: 20%;
+  margin-left: 0px;
+  padding-right: 15px;
+  border-right-style: dashed;
+  border-right-width: thin;
+  border-right-color: #aaa;
+  text-align: right;
+}
+
+.desc-resp {
+  float: right;
+  width: 72.7%;
+}
+
+.date>p {
+  margin: 0px;
+}
+
+.desc {
+  padding: 0px 10px;
+}
+
+.education-info>p {
+
+}
+
+.left {
+  float: left;
+}
+
+.centered {
+  position: relative;
+}
+
+.large-divider {
+  height: 1px;
+  border-style: inset;
+  border-color: #81BEF7AA;
+  border-width: thick;
+  border-radius: 10px;
+  margin: 5px 0px;
+}
+
+.small-divider {
+  height: 0px;
+  border-style: ridge;
+  border-color: #81BEF7AA;
+  border-width: thin;
+  margin: 10px 0px;
+}
+
+.large {
+  font-size: 20px;
+}
+
+.small {
+  font-size: 14px;
+}
+
+.tiny {
+  font-size: 12px;
+}
+
+.grey {
+  color: #666;
+}
+
+.black {
+  color: #000;
+}
+
+strong {
+  color: #FF0000;
+}
+
+#Preable {
+  margin: 0px 10px;
+}
+
+#Preable>p {
+  margin: 0px 0px 10px 0px;
+}
