@@ -81,9 +81,6 @@
   color: #094f90;
 }
 
-.company-info {
-  margin-bottom: 10px;
-}
 
 .company-title {
   width: 20%;
@@ -123,33 +120,14 @@
 .education-info {
   margin-right: 0px;
   margin-bottom: 0px;
-  width: 72%;
+}
+
+.education-title {
+  overflow: auto;
 }
 
 .education-name {
   margin: 0px 5px 0px 0px;
-}
-
-.education-gpa {
-  width: 25%;
-}
-
-.circle-number {
-  height: 45px;
-  width: 65px;
-
-  margin-top: 5px;
-  margin-left: 45px;
-
-  border-radius: 50%;
-  border-width: 10px;
-  border-color: #333;
-  border-style: solid;
-  padding: 10px 0px;
-
-  color: #000;
-  font: 35px Impact, sans-serif;
-  text-align: center;
 }
 
 .large-divider {
@@ -210,5 +188,5 @@
 }
 
 strong {
-  color: #FF0000;
+  color: #008;
 }
