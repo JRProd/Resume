@@ -142,8 +142,10 @@
   margin-left: 45px;
 
   border-radius: 50%;
+  border-width: 10px;
+  border-color: #333;
+  border-style: solid;
   padding: 10px 0px;
-  background-color:#81BEF7AA;
 
   color: #000;
   font: 35px Impact, sans-serif;
