@@ -2,7 +2,7 @@
   position: relative;
   height: 100%;
   width: 100%;
-  max-width: 700px;
+  max-width: 850px;
   margin-left: 10px;
   margin-right:10px;
 }
@@ -42,7 +42,7 @@
 }
 
 #Links {
-  padding-right: 57px;
+  padding-right: 81px;
 }
 
 .bar {
@@ -80,7 +80,6 @@
   padding-right: 8px;
   color: #094f90;
 }
-
 
 .company-title {
   width: 20%;
@@ -136,7 +135,7 @@
   border-color: #81BEF7AA;
   border-width: thick;
   border-radius: 10px;
-  margin: 5px 0px;
+  margin: 5px 5px 5px 0px;
 }
 
 .small-divider {
@@ -144,7 +143,7 @@
   border-style: ridge;
   border-color: #81BEF7AA;
   border-width: thin;
-  margin: 10px 0px;
+  margin: 10px 5px 10px 0px;
 }
 
 .left {
@@ -189,4 +188,13 @@
 
 strong {
   color: #008;
+}
+
+li {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /*font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif*/
 }
